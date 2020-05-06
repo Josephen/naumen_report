@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="45ccb4ca-9226-4472-a8a3-e16903f6cf63" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1bWRZ2VQYw4nh2axqcnTpKcwLP2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Application.OwnTransformation">
+    <configuration name="CustomeTransformation" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="CustomeTransformation" />
+      <module name="chimney pres" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DefaultVaue" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="DefaultValue" />
+      <module name="chimney pres" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OwnTransformation" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="OwnTransformation" />
+      <module name="chimney pres" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Transformation" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="BasicTransformation" />
+      <module name="chimney pres" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="first" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="first" />
+      <module name="chimney pres" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.OwnTransformation" />
+        <item itemvalue="Application.DefaultVaue" />
+        <item itemvalue="Application.CustomeTransformation" />
+        <item itemvalue="Application.Transformation" />
+        <item itemvalue="Application.first" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="chimney pres" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="root [file:/home/bmukov/Desktop/chimney-pres/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="chimney pres-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/build.sbt" value="3801030159" />
+        <entry key="$PROJECT_DIR$/project/Dependencies.scala" value="1685939723" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1026143456" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../GPN-1377/cat/nkcproject" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../GPN-1377/nkc-storage-api" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../GPN-1396/cat/nkcproject" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../GPN-1396/new/cat/nkcproject" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../GPN1486/cat/nkcproject" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../cat/nkcproject" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../cats-practice/scala-cats-practice" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../nkc-core/nkc-core" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../nkc-storage-api" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../reactive-prog-course" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../scala-pet-store" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../scala-play-tg-example/scala-play-tg-example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../scala-play-wet-paw" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../type-classes-prac" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../wet-paw/scala-play-wet-paw" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/NKC/cat/nkcproject" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/actorbintree" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/async" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/checker" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/streaming" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45ccb4ca-9226-4472-a8a3-e16903f6cf63" name="Default Changelist" comment="" />
+      <created>1588745914889</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588745914889</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1804" height="304" key="GridCell.Tab.0.bottom" timestamp="1588756217418">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="304" key="GridCell.Tab.0.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1588756217418" />
+    <state width="1804" height="304" key="GridCell.Tab.0.center" timestamp="1588756217417">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="304" key="GridCell.Tab.0.center/70.27.1850.1053@70.27.1850.1053" timestamp="1588756217417" />
+    <state width="1804" height="304" key="GridCell.Tab.0.left" timestamp="1588756217417">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="304" key="GridCell.Tab.0.left/70.27.1850.1053@70.27.1850.1053" timestamp="1588756217417" />
+    <state width="1804" height="304" key="GridCell.Tab.0.right" timestamp="1588756217418">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="304" key="GridCell.Tab.0.right/70.27.1850.1053@70.27.1850.1053" timestamp="1588756217418" />
+  </component>
+</project>
