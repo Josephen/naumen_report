@@ -31,6 +31,8 @@ object LiftedTransformation {
     .withFieldComputed(_.passwordHash, form => foo(form.password))
     .withFieldComputedF(_.age, _.age.toIntOption)
     .transform
+  // None: Option[RegisteredUser]
+
 
   //LIFTED DSL operations: withFieldConstF, withFieldComputedF, witchCoproductInstanceF
 

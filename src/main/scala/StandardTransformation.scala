@@ -1,4 +1,5 @@
 import BasicTransformation.Butterfly
+import io.scalaland.chimney.Transformer
 import io.scalaland.chimney.dsl._
 
 object StandardTransformation {
@@ -17,6 +18,7 @@ object StandardTransformation {
   class Car(maxSpeed: Double, val seats: Int) extends Vehicle(maxSpeed)
 
   (new Car(180, 5)).transformInto[Vehicle]
+  Transformer[Car, Vehicle]
 
   //value class transfomation
 
@@ -25,6 +27,7 @@ object StandardTransformation {
     case class PersonName(name: String) extends AnyVal
     case class Person(personId: PersonId, personName: PersonName, age: Int)
   }
+
   object plain {
     case class Person(personId: Int, personName: String, age: Int)
   }

@@ -36,8 +36,8 @@ object OwnTransformation extends App {
 
   //transformer definition DSL
 
-  implicit val userV2toV2: Transformer[v1.User, v2.User] =
-    Transformer.define[v1.User, v2.User]
-      .withFieldComputed(_.addresses, u => List(v2.Address(u.street, u.postalCode)))
-      .buildTransformer
+//  implicit val userV2toV2: Transformer[v1.User, v2.User] =
+//    Transformer.define[v1.User, v2.User]
+//      .withFieldComputed(_.addresses, u => List(v2.Address(u.street, u.postalCode)))
+//      .buildTransformer
 }

@@ -8,6 +8,17 @@ object CustomTransformation extends App {
 
   val tommy = Caterpillar (5, "tom")
 
+  //val tom = tommy.transformInto[Butterfly]
+
+  /*
+  Error:(11, 32) Chimney can't derive transformation from CustomTransformation.Caterpillar to CustomTransformation.Butterfly
+
+  CustomTransformation.Butterfly
+
+  wingsColor: java.lang.String - no accessor named wingsColor in source type CustomTransformation.Caterpillar
+   */
+
+  //  val tom = tommy.transformInto[Butterfly]
   val tomConst = tommy.into[Butterfly]
     .withFieldConst(_.wingsColor, "white")
     .transform
